@@ -1,4 +1,4 @@
-# Delf-Generative-City
+# Self-Generative-City
  Self-Generative Urban Model Based on Cellular Automata
 
 Assignment2 for Course _#6339 Introduction to Computational Design_
