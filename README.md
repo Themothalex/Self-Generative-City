@@ -2,7 +2,7 @@
  Self-Generative Urban Model Based on Cellular Automata
 
 Assignment1 for Course _#6339 Introduction to Computational Design_
-Website: https://gsd6338.org/fall2022/assignment0/dancing-in-shan-shui/index.html
+Website: https://gsd6338.org/fall2022/assignment1/self-constructed-city/index.html
 
 
 Cellular Automata is a discrete model computation. It reveals that when many simple agents work together, they can exhibit a complex intelligent behavior. City elements, such as buildings, green space coexist to form a city. Based on the theory of cellular automation, this project creates a self-constructed urban system. 
